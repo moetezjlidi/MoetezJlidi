@@ -22,7 +22,7 @@ My name is Moetez! I'm really passionate about Front end development and website
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     </p>
-<h2 align="center"> CONTACT</h2>
+<h2 align="center"> CONTACT <br/><br/>
 <p align="center">
 <a  href="https://www.linkedin.com/in/moetez-jlidi-6041781ab/"><img src="https://img.shields.io/badge/-Moetez%20Jlidi-3423A6?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
  <a href="mailto:moetez1@live.fr"><img src="https://img.shields.io/badge/-moetez1@live.fr-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
