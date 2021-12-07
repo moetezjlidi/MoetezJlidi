@@ -8,7 +8,7 @@ My name is Moetez! I'm really passionate about Front end development and website
 
 - 🔭 I’m currently a student in Aix-Marseille University.
 
-- 🛸 Learning everyday, currently learning to master Java / HTML / CSS etc ...
+- 🛸 Learning everyday, currently learning to master Java / HTML / CSS / JS , etc ...
 
 - 📫 How to reach me: You can contact me on my e-mail : <a href="mailto:moetez1@live.fr">  moetez1@live.fr.
 <p align="center">
