@@ -8,7 +8,7 @@ My name is Moetez! I'm really passionate about Front end development and website
 
 - 🔭 I’m currently a student in Aix-Marseille University.
 
-- 🛸 Learning everyday, currently learning to master Java / HTML / CSS / JS , etc ...
+- 🛸 Learning everyday, currently learning to master Java / React / PHP / JS , etc ...
 
 - 📫 How to reach me: You can contact me on my e-mail : <a href="mailto:moetez1@live.fr">  moetez1@live.fr.
 <p align="center">
@@ -16,6 +16,7 @@ My name is Moetez! I'm really passionate about Front end development and website
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react)&nbsp;
+![PHP](https://img.shields.io/badge/-php-05122A?style=for-the-badge&logo=php)&nbsp;
 ![Symfony](https://img.shields.io/badge/-symfony-05122A?style=for-the-badge&logo=symfony)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
