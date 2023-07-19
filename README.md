@@ -15,7 +15,8 @@ My name is Moetez! I'm really passionate about Front end development and website
   <h2 align="center">🛠 Languages and Tools&nbsp;</h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-
+![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react)&nbsp;
+![Symfony](https://img.shields.io/badge/-symfony-05122A?style=for-the-badge&logo=symfony)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
