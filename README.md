@@ -13,8 +13,9 @@ My name is Moetez! I'm really passionate about Front end development and website
 - 📫 How to reach me: You can contact me on my e-mail : <a href="mailto:moetez1@live.fr">  moetez1@live.fr.
 <p align="center">
   <h2 align="center">🛠 Languages and Tools&nbsp;</h2>
-
+![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![Symfony](https://img.shields.io/badge/-symfony-05122A?style=for-the-badge&logo=symfony)&nbsp;sp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
