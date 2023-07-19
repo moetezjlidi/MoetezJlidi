@@ -27,7 +27,8 @@ My name is Moetez! I'm really passionate about Front end development and website
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-    </p>
+![Linux](https://img.shields.io/badge/-linux-05122A?style=for-the-badge&logo=linux)&nbsp;
+</p>
 <h2 align="center"> CONTACT <br/><br/>
 <p align="center">
 <a  href="https://www.linkedin.com/in/moetez-jlidi-6041781ab/"><img src="https://img.shields.io/badge/-Moetez%20Jlidi-3423A6?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
