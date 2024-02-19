@@ -3,7 +3,7 @@
 </h1>
 <h1 align="center"> 💻 About Me 💻</h1>
 <p align="center">
-My name is Moetez! I'm really passionate about Front end development and website making 👨‍💻 , I'm open to creating projects with new people so feel free to contact me.
+My name is Moetez! I'm really passionate about front-end, back-end development and website making 👨‍💻 , I'm open to creating projects with new people so feel free to contact me.
     <br>
 
 - 🔭 I’m currently a student in Aix-Marseille University.
