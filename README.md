@@ -31,7 +31,7 @@ My name is Moetez! I'm really passionate about front-end, back-end development a
 </p>
 <h2 align="center"> CONTACT <br/><br/>
 <p align="center">
-<a  href="https://www.linkedin.com/in/moetez-jlidi-6041781ab/"><img src="https://img.shields.io/badge/-Moetez%20Jlidi-3423A6?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a  href="https://www.linkedin.com/in/moetez-j-6041781ab/"><img src="https://img.shields.io/badge/-Moetez%20Jlidi-3423A6?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
  <a href="mailto:moetez1@live.fr"><img src="https://img.shields.io/badge/-moetez1@live.fr-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 <h2 align="center">Visitors Count<br/><br/>
