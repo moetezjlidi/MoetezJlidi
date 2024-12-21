@@ -38,7 +38,7 @@ My name is Moetez! I'm really passionate about front-end, back-end development a
 ![Android Studio](https://img.shields.io/badge/android%20Studio-05122A?style=for-the-badge&logo=androidstudio)&nbsp;
 ![UML](https://img.shields.io/badge/UML-05122A?style=for-the-badge&logo=Uml)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ](https://img.shields.io/badge/Intellij%20Idea--05122A?logo=intellij-idea&style=for-the-badge)&nbsp;
+![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-05122A?logo=intellij-idea&style=for-the-badge)&nbsp;
 </p>
 <h2 align="center"> CONTACT <br/><br/>
 <p align="center">
