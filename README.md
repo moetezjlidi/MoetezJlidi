@@ -21,14 +21,24 @@ My name is Moetez! I'm really passionate about front-end, back-end development a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-c++-05122A?style=for-the-badge&logo=cplusplus)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=1572B6)&nbsp;
+![JSON](https://img.shields.io/badge/-json-05122A?style=for-the-badge&logo=json)&nbsp;
+![NodeJS](https://img.shields.io/badge/nodejs-05122A?style=for-the-badge&logo=Node.js)&nbsp;
+![Angular](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitLab](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
+![Linux]([https://img.shields.io/badge/-linux-05122A?style=for-the-badge&logo=linux](https://img.shields.io/badge/-linux-05122A?style=for-the-badge&logo=linux))&nbsp;
+![Apache](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
+![Debian](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
+![Android Studio](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
+![UML](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-05122A?style=for-the-badge&logo=linux)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=1572B6)&nbsp;
+
 </p>
 <h2 align="center"> CONTACT <br/><br/>
 <p align="center">
