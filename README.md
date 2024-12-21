@@ -31,12 +31,12 @@ My name is Moetez! I'm really passionate about front-end, back-end development a
 ![NodeJS](https://img.shields.io/badge/nodejs-05122A?style=for-the-badge&logo=Node.js)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitLab](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
-![Linux]([https://img.shields.io/badge/-linux-05122A?style=for-the-badge&logo=linux](https://img.shields.io/badge/-linux-05122A?style=for-the-badge&logo=linux))&nbsp;
-![Apache](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
-![Debian](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
-![Android Studio](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
-![UML](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
+![GitLab](https://img.shields.io/badge/gitlab-05122A?style=for-the-badge&logo=gitlab)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-05122A?style=for-the-badge&logo=linux)&nbsp;
+![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache)&nbsp;
+![Debian](https://img.shields.io/badge/debian-05122A?style=for-the-badge&logo=debian)&nbsp;
+![Android Studio](https://img.shields.io/badge/android%20Studio-05122A?style=for-the-badge&logo=androidstudio)&nbsp;
+![UML](https://img.shields.io/badge/UML-05122A?style=for-the-badge&logo=Uml)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </p>
