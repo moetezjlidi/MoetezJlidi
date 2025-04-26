@@ -10,7 +10,7 @@ My name is Moetez! I'm really passionate about front-end, back-end development a
 
 - 🛸 Learning everyday, currently learning to master Java / React / PHP / JS , etc ...
 
-- 📫 How to reach me: You can contact me on my e-mail : <a href="mailto:moetez1@live.fr">  moetez1@live.fr.
+- 📫 How to reach me: You can contact me on my e-mail : <a href="mailto:moetez.jlidi@gmail.com">  moetez.jlidi@gmail.com
 <p align="center">
   <h2 align="center">🛠 Languages and Tools&nbsp;</h2>
 
