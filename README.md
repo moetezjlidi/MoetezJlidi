@@ -29,12 +29,15 @@ My name is Moetez! I'm really passionate about front-end, back-end development a
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=1572B6)&nbsp;
 ![JSON](https://img.shields.io/badge/-json-05122A?style=for-the-badge&logo=json)&nbsp;
 ![NodeJS](https://img.shields.io/badge/nodejs-05122A?style=for-the-badge&logo=Node.js)&nbsp;
+![SpringBoot](https://img.shields.io/badge/springboot-05122A?style=for-the-badge&logo=springboot)&nbsp;
+![Docker](https://img.shields.io/badge/docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-05122A?style=for-the-badge&logo=angular)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitLab](https://img.shields.io/badge/gitlab-05122A?style=for-the-badge&logo=gitlab)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=for-the-badge&logo=linux)&nbsp;
 ![Apache](https://img.shields.io/badge/apache-05122A?style=for-the-badge&logo=apache)&nbsp;
 ![Debian](https://img.shields.io/badge/debian-05122A?style=for-the-badge&logo=debian)&nbsp;
+![RedHat](https://img.shields.io/badge/redhat-05122A?style=for-the-badge&logo=redhat)&nbsp;
 ![Android Studio](https://img.shields.io/badge/android%20Studio-05122A?style=for-the-badge&logo=androidstudio)&nbsp;
 ![UML](https://img.shields.io/badge/UML-05122A?style=for-the-badge&logo=Uml)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -43,7 +46,7 @@ My name is Moetez! I'm really passionate about front-end, back-end development a
 <h2 align="center"> CONTACT <br/><br/>
 <p align="center">
 <a  href="https://www.linkedin.com/in/moetezjlidi/"><img src="https://img.shields.io/badge/-Moetez%20Jlidi-3423A6?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
- <a href="mailto:moetez1@live.fr"><img src="https://img.shields.io/badge/-moetez1@live.fr-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+ <a href="mailto:moetez.jlidi@gmail.com"><img src="https://img.shields.io/badge/-moetez.jlidi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 <h2 align="center">Visitors Count<br/><br/>
     <img src="https://profile-counter.glitch.me/MoetezJlidi/count.svg" />
