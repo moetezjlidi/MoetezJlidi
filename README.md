@@ -46,7 +46,8 @@ My name is Moetez! I'm really passionate about front-end, back-end development a
 <h2 align="center"> CONTACT <br/><br/>
 <p align="center">
 <a  href="https://www.linkedin.com/in/moetezjlidi/"><img src="https://img.shields.io/badge/-Moetez%20Jlidi-3423A6?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
- <a href="mailto:moetez.jlidi@gmail.com"><img src="https://img.shields.io/badge/-moetez.jlidi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:moetez.jlidi@gmail.com"><img src="https://img.shields.io/badge/-moetez.jlidi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://moetezjlidi.github.io/MoetezDevelops/"> <img src="https://img.shields.io/badge/-My%20Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 <h2 align="center">Visitors Count<br/><br/>
     <img src="https://profile-counter.glitch.me/MoetezJlidi/count.svg" />
