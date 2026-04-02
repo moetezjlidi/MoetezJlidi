@@ -50,5 +50,5 @@ My name is Moetez! I'm really passionate about front-end, back-end development a
 <a href="https://moetezjlidi.github.io/MoetezDevelops/"> <img src="https://img.shields.io/badge/-My%20Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 <h2 align="center">Visitors Count<br/><br/>
-    <img src="https://profile-counter.glitch.me/MoetezJlidi/count.svg" />
+    <img src="https://komarev.com/ghpvc/?username=MoetezJlidi&color=blue" />
     </p>
